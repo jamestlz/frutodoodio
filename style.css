@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'SF Pro Display';
-    src: url('fonts/SFProDisplay-Regular.ttf') format('truetype');
+    src: url('frutodoodiofonts/SFProDisplay-Regular.ttf') format('truetype');
     font-weight: 400; /* Normal */
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SF Pro Display';
-    src: url('fonts/SFProDisplay-Medium.ttf') format('truetype');
+    src: url('frutodoodiofonts/SFProDisplay-Medium.ttf') format('truetype');
     font-weight: 500; /* Medium */
     font-style: normal;
 }
@@ -79,7 +79,7 @@ body {
     text-align: center;
     font-size: 18px;
     flex-direction: column;
-    background-image: url('file:///C:/Users/thiag/OneDrive/Desktop/img/mobile.png'); /* Imagem de fundo */
+    background-image: url('/frutodoodio/img/mobile.png'); /* Imagem de fundo */
     background-size: contain;
     background-position: center;
 }
