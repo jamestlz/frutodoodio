@@ -170,9 +170,25 @@ body {
 
 
 
+.btn{
+    font-family: 'SF Pro Display', sans-serif;
+    font-weight: 500; /* Usa a versão Medium */
+    padding: 15px 20px;
+    border-radius: 7px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #06c;
+    color: white;
+}
 
 .img{
-    width: 50vw;
+    width: 80vw;
+}
+.img-ig{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    object-fit: cover;
 }
 .logo{
     width: 100px;
